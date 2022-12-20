@@ -56,8 +56,7 @@ public class MngLoginTest extends Baseguru {
 	@DataProvider(name = "userpass")
 	public String[][] senddata() {
 
-		String[][] usernpwd = { { "mngr460555", "YnagudE" }, { "mngr460556", "YnaqYgY" }, { "mngr460557", "mynyquv" },
-				{ "mngr460559", "zUdenUq" } };
+		String[][] usernpwd = { { "mngr460555", "YnagudE" }};
 		return usernpwd;
 
 	}
